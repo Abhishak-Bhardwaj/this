@@ -1,0 +1,7 @@
+#ignore outputs
+*.o
+*.out
+
+#ignore vim's swap files
+*.swp
+
